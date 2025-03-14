@@ -1,0 +1,63 @@
+#nav{
+    color: #ffd700;
+}
+#navbar{
+    background: #001f3f;
+}
+
+#span{
+    color: #ffffff;
+}
+#and{
+    color: #001f3f;
+}
+#parent{
+    height: 480px;
+}
+
+#images{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.3)
+}
+
+#text-p{
+    margin-top: 160px;
+     }
+     
+     #fas{
+         color: #ffd700;
+     }
+     #learn{
+         
+         color: #ffffff;
+     }
+     
+    #fat{
+        background: #001f3f;
+    }
+
+#icon-con{
+    height: 80px;
+    background: #001f3f;
+}
+#bg{
+ background: #006400; 
+}
+#button{
+    width: 200px;
+    padding: 10px 20px;
+    display: inline-block;
+    max-width: 200px;
+    background: #ffd700;
+}
+#fa{
+    background: #001f3f;
+}
+#style{
+  color:   #50c878;
+ }
+ 
+ #contactus{
+     background: #001; 
+ } 
